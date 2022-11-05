@@ -1,0 +1,433 @@
+﻿gender,education,residency,senority,English_confident,compensation,Process.getting_started_on,Process.navigating_contribution_process,Process.reception_issues,Process.licenses,Social.communication_styles,Social.fear_of_making_mistakes,Social.lack_of_recognition,Social.unwelcoming_environment,Social.nationality,Social.cultural_differences,Project.documentation,Project.technical_Hurdles,SOB
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often,Often,Agree
+Man,Undergraduate degree,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,Sometimes,Rarely,Rarely,Sometimes,Often,Sometimes,Often,Often,Often,Sometimes,Sometimes,Often,Neutral
+,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,Never,Never,proce,Never,Never,Never,Never,Never,Never,Never,Never,Never,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,Never,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Never,Rarely,Rarely,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Neutral
+,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,Rarely,Rarely,,Rarely,,,,,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+,Master_Above,Non-NA,3 to 5 years,No,paid,Never,Rarely,,Never,Rarely,Never,,Never,Rarely,Never,Rarely,Rarely,Neutral
+Man,Master_Above,NorthA,3 to 5 years,Yes,,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,
+,,,Less than 3 years,Yes,paid,Rarely,,,,,,,,,,,,
+Man,Undergraduate degree,NorthA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Less than 3 years,Yes,,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Neutral
+Man,"high school TT, no education",Non-NA,Over 6 years,Yes,unpaid,,,,,Sometimes,Rarely,,Sometimes,,Sometimes,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,No,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,3 to 5 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Neutral
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,,Non-NA,Over 6 years,Yes,unpaid,,,,Rarely,Rarely,Rarely,,,,,,,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,Yes,unpaid,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Rarely,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,paid,Rarely,,Rarely,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,,Rarely,,Rarely,,,,,,,,Rarely,Agree
+Man,"high school TT, no education",NorthA,Over 6 years,Yes,unpaid,Never,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Agree
+,,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Neutral
+,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,Rarely,Sometimes,Often,Rarely,Sometimes,Rarely,Rarely,Often,Never,Never,Often,Often,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,Rarely,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Agree
+Man,"high school TT, no education",Non-NA,3 to 5 years,No,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,Rarely,Never,,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Agree
+Man,Undergraduate degree,NorthA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+,,,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,Rarely,Sometimes,Rarely,Sometimes,Rarely,Often,Often,Never,Never,Never,Rarely,Never,Neutral
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,unpaid,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Neutral
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Never,,,Rarely,Often,Rarely,Often,Often,Never,Rarely,Sometimes,Rarely,Agree
+,,,Over 6 years,Yes,paid,,,,,,,,,,,,,
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,Rarely,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,Sometimes,Sometimes,,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Often,Agree
+non_man,Master_Above,Non-NA,3 to 5 years,Yes,paid,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Often,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,Never,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Agree
+Man,"high school TT, no education",Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,,,,,,,,Often,,,,,Disagree
+Man,Master_Above,,3 to 5 years,Yes,unpaid,Rarely,Rarely,Rarely,Never,Never,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Neutral
+Man,Master_Above,Non-NA,Less than 3 years,Yes,,,,,,,,,,Rarely,Rarely,,Rarely,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,unpaid,,,,,,,,,,,,,Neutral
+Man,Master_Above,Non-NA,3 to 5 years,No,paid,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Sometimes,Agree
+Man,Master_Above,Non-NA,Over 6 years,No,paid,,,,,,,,,,,,,Agree
+,Undergraduate degree,,Less than 3 years,Yes,paid,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Often,Rarely,Often,Rarely,Rarely,Agree
+non_man,Undergraduate degree,NorthA,Less than 3 years,Yes,paid,,,,,,,,,,,,,
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,unpaid,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Sometimes,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,Often,Often,Often,Never,Often,Often,Often,Often,,,Often,Often,Disagree
+Man,Master_Above,Non-NA,Over 6 years,Yes,,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+non_man,Master_Above,NorthA,3 to 5 years,Yes,paid,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,Never,Never,Never,Never,Sometimes,Never,Never,Often,Rarely,Rarely,Never,Never,Agree
+,,,3 to 5 years,Yes,,,,,,,,,,,,,,
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Rarely,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,No,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,Rarely,Often,Often,Rarely,Often,Often,Often,Often,Often,Often,Often,Often,Disagree
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Neutral
+Man,Undergraduate degree,Non-NA,Less than 3 years,Yes,unpaid,,,,,,,,,,,,,Agree
+,Master_Above,Non-NA,3 to 5 years,Yes,unpaid,,,Rarely,Rarely,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Never,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,Sometimes,Sometimes,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Often,Often,Neutral
+Man,Master_Above,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Disagree
+Man,Master_Above,NorthA,Over 6 years,Yes,,,,,,,,,,,,,,Agree
+Man,,Non-NA,Less than 3 years,No,paid,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",Non-NA,3 to 5 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Rarely,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Rarely,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,Rarely,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Agree
+Man,Undergraduate degree,,Over 6 years,Yes,unpaid,,,,,,,,,,,,,
+Man,Undergraduate degree,Non-NA,Less than 3 years,Yes,paid,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Sometimes,Sometimes,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,unpaid,,Rarely,,,,,,,,,,,
+Man,Master_Above,Non-NA,3 to 5 years,No,unpaid,,,,,,,,,,,,,
+Man,Undergraduate degree,Non-NA,Less than 3 years,No,paid,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Agree
+Man,Master_Above,NorthA,Less than 3 years,Yes,unpaid,,,,,,,,,,,,Rarely,Agree
+Man,Undergraduate degree,Non-NA,Less than 3 years,Yes,paid,Rarely,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Neutral
+Man,Undergraduate degree,Non-NA,Less than 3 years,No,paid,Sometimes,Rarely,,,,,,,,,,,Agree
+Man,,Non-NA,3 to 5 years,Yes,,,,,,,,,,,,,,
+,Undergraduate degree,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,unpaid,,,,,,,,,,,,,
+Man,Master_Above,Non-NA,Over 6 years,Yes,,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Agree
+,Master_Above,Non-NA,Less than 3 years,Yes,unpaid,,,,,,,,,,,,,Neutral
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+,,,Less than 3 years,Yes,,Sometimes,,,,,,,,,,,,
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,No,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,
+,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,
+Man,Master_Above,Non-NA,3 to 5 years,Yes,,,,,,,,,,,,Sometimes,Sometimes,
+Man,Undergraduate degree,,Less than 3 years,Yes,unpaid,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never,Never,Never,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,unpaid,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Never,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",Non-NA,Less than 3 years,Yes,paid,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Rarely,Never,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Never,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,paid,Rarely,Rarely,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Neutral
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,,,,Sometimes,Sometimes,,,,,,,,
+Man,"high school TT, no education",Non-NA,Over 6 years,No,paid,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Neutral
+Man,Master_Above,Non-NA,Over 6 years,Yes,,,,,,Rarely,,,,Rarely,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,Yes,,Never,Never,Never,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,3 to 5 years,No,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",Non-NA,3 to 5 years,Yes,unpaid,Rarely,Rarely,Sometimes,Rarely,Often,Sometimes,Sometimes,Never,Never,Never,Sometimes,Never,Agree
+non_man,Master_Above,Non-NA,3 to 5 years,Yes,paid,Often,Rarely,,,Sometimes,Often,Rarely,Sometimes,,,Sometimes,,Disagree
+Man,,Non-NA,Less than 3 years,Yes,paid,,Never,,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,
+Man,Master_Above,,3 to 5 years,Yes,,,,,,,,,,,,,,
+non_man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,Sometimes,Sometimes,Never,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Often,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Rarely,Sometimes,Sometimes,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,No,unpaid,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Agree
+Man,Undergraduate degree,,Less than 3 years,Yes,paid,,,,,,,,,,,,,
+Man,Master_Above,Non-NA,Over 6 years,No,,Never,,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Agree
+Man,"high school TT, no education",Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,No,,Sometimes,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,,,3 to 5 years,Yes,paid,,,,,,,,,,,,,Neutral
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Rarely,Rarely,Never,Never,Sometimes,Often,Rarely,Never,Never,Rarely,Sometimes,Often,Neutral
+Man,,Non-NA,Less than 3 years,Yes,,Rarely,,,,,,,,,,Rarely,Rarely,Agree
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,
+Man,Master_Above,Non-NA,3 to 5 years,Yes,unpaid,,,,,Rarely,Rarely,,,Rarely,Rarely,,,Agree
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Never,Never,Rarely,Never,Never,Agree
+non_man,Master_Above,Non-NA,3 to 5 years,Yes,unpaid,,,,,,,,,,,,,Disagree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Less than 3 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+,Master_Above,Non-NA,Over 6 years,Yes,,Rarely,Rarely,Rarely,Rarely,Often,Often,Rarely,Rarely,Sometimes,Often,Rarely,Sometimes,Agree
+Man,Undergraduate degree,,3 to 5 years,Yes,paid,,,,,,,,,,,,,
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,paid,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Agree
+non_man,Undergraduate degree,Non-NA,Less than 3 years,Yes,unpaid,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Neutral
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Rarely,Rarely,,,Never,Never,Never,Never,Rarely,,Rarely,Sometimes,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,Never,Never,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,No,,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,,Never,Never,Never,Never,Rarely,Often,Often,Rarely,Rarely,Rarely,Never,Never,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Disagree
+Man,"high school TT, no education",Non-NA,3 to 5 years,No,unpaid,,,,,Sometimes,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,Rarely,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,Rarely,,,Rarely,,,,,
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,Rarely,Rarely,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,Neutral
+non_man,Master_Above,Non-NA,3 to 5 years,No,paid,Rarely,Rarely,,,,,,,Rarely,,,Rarely,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Neutral
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,
+non_man,Master_Above,NorthA,Over 6 years,Yes,unpaid,Never,Never,Never,Never,Often,Often,Often,Often,Often,Rarely,Never,Never,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,No,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,unpaid,,,,,,,,,,,,,
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Neutral
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+,,,Over 6 years,Yes,,,,,,,,,,,,,,
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,Rarely,,,Sometimes,,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,,,,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Never,Often,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,unpaid,,,,,,,,,,,,,Agree
+,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,Rarely,,,Rarely,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,Often,,,,Rarely,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+non_man,,Non-NA,Over 6 years,Yes,,,,,,Rarely,Never,Never,Never,Never,Never,,,Agree
+Man,"high school TT, no education",Non-NA,Less than 3 years,Yes,paid,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Rarely,Never,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,
+Man,Master_Above,Non-NA,3 to 5 years,Yes,unpaid,,,,,,,,,,,,,
+non_man,Undergraduate degree,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Neutral
+Man,Master_Above,Non-NA,Over 6 years,Yes,,Rarely,,,,,,,,,,,,
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,,,,,Rarely,,,,Rarely,Rarely,,,Agree
+Man,,Non-NA,3 to 5 years,No,unpaid,,Rarely,,,,Sometimes,,,,,Sometimes,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,Rarely,,,Rarely,,,,Rarely,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,unpaid,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Never,
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,,,,,,,,,,,,,,Disagree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,Sometimes,Rarely,Sometimes,,Sometimes,Often,Sometimes,Rarely,Never,Never,Rarely,Often,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",Non-NA,3 to 5 years,Yes,,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,Never,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,
+Man,Master_Above,Non-NA,3 to 5 years,No,unpaid,Rarely,,,,,Rarely,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,Never,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Never,Rarely,Sometimes,Agree
+Man,Undergraduate degree,NorthA,3 to 5 years,Yes,paid,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Rarely,Sometimes,Rarely,Often,Sometimes,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Neutral
+Man,Master_Above,Non-NA,Over 6 years,No,paid,,,,,Rarely,Sometimes,,,,,,,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,unpaid,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,Never,,,Rarely,Never,Never,Never,Sometimes,Sometimes,Agree
+Man,Undergraduate degree,Non-NA,Less than 3 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",NorthA,3 to 5 years,Yes,,,,,,,,,,,,,,Disagree
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,unpaid,Rarely,Sometimes,,,Rarely,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,
+non_man,Undergraduate degree,Non-NA,3 to 5 years,No,unpaid,Sometimes,Sometimes,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Disagree
+Man,"high school TT, no education",Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+non_man,Undergraduate degree,NorthA,Less than 3 years,Yes,paid,Never,Rarely,Rarely,Never,Rarely,Rarely,Often,Never,Never,Rarely,Sometimes,Often,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,Yes,unpaid,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Agree
+non_man,Master_Above,Non-NA,Over 6 years,Yes,paid,Never,Sometimes,Never,Never,Rarely,Never,Never,Rarely,,,,,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,,,,,,Rarely,,,Rarely,,Rarely,,Rarely,Disagree
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,unpaid,,,,Rarely,,,,,,,,,Neutral
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,Rarely,,Rarely,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,3 to 5 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,unpaid,,,,,,,,,,,,,Agree
+,Master_Above,Non-NA,Over 6 years,Yes,paid,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Neutral
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,paid,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+non_man,Master_Above,NorthA,Over 6 years,Yes,unpaid,,Sometimes,Sometimes,Sometimes,Often,Often,Often,Sometimes,Rarely,Sometimes,Often,Often,Disagree
+Man,Master_Above,,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,No,paid,,,,Rarely,Rarely,Sometimes,,Never,Never,Never,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,No,unpaid,Rarely,Rarely,,Rarely,Rarely,,,,,,Sometimes,Sometimes,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,unpaid,,,,,,,,,,,,,Neutral
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,No,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,paid,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Sometimes,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,No,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Disagree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Rarely,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Rarely,Neutral
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Often,Sometimes,Rarely,Never,Never,Often,Rarely,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,paid,,,,,Rarely,,,,Rarely,Rarely,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Never,Never,Rarely,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",NorthA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Neutral
+Man,"high school TT, no education",NorthA,Over 6 years,Yes,,,,,,,,,,,,,,Neutral
+Man,Master_Above,Non-NA,Less than 3 years,Yes,unpaid,,,,,,,,,,,,,Agree
+,,,3 to 5 years,Yes,,Rarely,Rarely,Never,Often,Never,Never,Never,Never,Never,Never,Often,Often,
+,Undergraduate degree,NorthA,Less than 3 years,Yes,paid,Never,Never,Rarely,Never,Rarely,Never,Never,Rarely,Never,Rarely,Sometimes,Rarely,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,Rarely,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Rarely,Often,Sometimes,Sometimes,Sometimes,Neutral
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Neutral
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,unpaid,,,,,Sometimes,Sometimes,Sometimes,,,,Sometimes,Often,
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,No,unpaid,Rarely,Never,,,,,,,,,,,Neutral
+,,Non-NA,3 to 5 years,No,paid,,,,,Rarely,,,,,,,,Agree
+Man,Master_Above,,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Often,Sometimes,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,Never,Never,,Rarely,Rarely,Never,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,Sometimes,Sometimes,,,,,,,,,Sometimes,Sometimes,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Disagree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,paid,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Often,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Agree
+Man,Master_Above,Non-NA,3 to 5 years,No,unpaid,,,,,,,,,,,Rarely,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,Never,Never,Never,Never,Often,Often,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Agree
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Less than 3 years,Yes,,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,No,paid,,,,,,,,,,,,,Agree
+,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,,Rarely,,,,Rarely,,,Rarely,,,,,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,No,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,Rarely,Rarely,,,Sometimes,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Agree
+Man,Master_Above,Non-NA,Over 6 years,No,unpaid,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Rarely,Rarely,Agree
+Man,Master_Above,NorthA,Less than 3 years,Yes,paid,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Rarely,Rarely,Agree
+Man,Master_Above,NorthA,Over 6 years,No,unpaid,Never,Rarely,,Never,Rarely,Rarely,Rarely,Sometimes,Never,Rarely,Never,Never,
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,Rarely,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Sometimes,Sometimes,Agree
+non_man,Master_Above,Non-NA,Over 6 years,Yes,paid,Never,Rarely,,Rarely,Often,Sometimes,Sometimes,Often,Never,Never,Rarely,Sometimes,Agree
+non_man,Master_Above,Non-NA,3 to 5 years,Yes,unpaid,Often,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Often,Rarely,Rarely,Rarely,Rarely,Agree
+,,Non-NA,Over 6 years,Yes,unpaid,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Never,
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+non_man,Master_Above,,Less than 3 years,Yes,paid,,,,,,,,,,,,,
+non_man,Undergraduate degree,,Less than 3 years,Yes,paid,,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,,3 to 5 years,Yes,paid,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Agree
+non_man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+non_man,Undergraduate degree,Non-NA,Less than 3 years,Yes,paid,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,No,unpaid,,,,,,,,,,,,,Neutral
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,,,,,,,,,,,,,,Agree
+,Master_Above,NorthA,Over 6 years,Yes,,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+,,,Over 6 years,Yes,unpaid,,,,,,,,,,,,,
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,,NorthA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Rarely,
+non_man,Master_Above,Non-NA,Over 6 years,No,unpaid,,,,,,,,,,,,,
+Man,Master_Above,,3 to 5 years,Yes,unpaid,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Neutral
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,Yes,,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,unpaid,Never,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,Never,Rarely,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+,Master_Above,Non-NA,Less than 3 years,Yes,paid,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Never,,Never,Often,Often,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,,,,,,,,,,,,,Rarely,Neutral
+Man,"high school TT, no education",Non-NA,Less than 3 years,Yes,paid,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Neutral
+Man,"high school TT, no education",Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+non_man,Master_Above,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,,Less than 3 years,Yes,unpaid,,,,,,,,,,,,,
+Man,"high school TT, no education",Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",Non-NA,Less than 3 years,Yes,unpaid,Sometimes,,,,Never,,Never,Never,Never,Never,Sometimes,Rarely,
+Man,Undergraduate degree,NorthA,3 to 5 years,Yes,paid,Rarely,Rarely,,Rarely,Never,Rarely,,,,,Rarely,Sometimes,Agree
+Man,Undergraduate degree,NorthA,Less than 3 years,No,unpaid,Sometimes,Rarely,,Rarely,Rarely,Never,Never,Never,Never,Never,Sometimes,Often,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,Rarely,Sometimes,Sometimes,Never,Sometimes,Often,Rarely,Rarely,Never,Never,Never,Sometimes,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,Rarely,,,,,Agree
+,,NorthA,Less than 3 years,Yes,paid,Sometimes,Sometimes,Sometimes,Rarely,Often,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Neutral
+non_man,Master_Above,NorthA,3 to 5 years,No,paid,,,,,,,,,,,,Rarely,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,No,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,Yes,paid,Rarely,Rarely,,,,Never,,Never,,Rarely,Rarely,Rarely,Agree
+non_man,Master_Above,NorthA,Less than 3 years,No,paid,Sometimes,Sometimes,Sometimes,,,,,,,,Rarely,Sometimes,Agree
+Man,Master_Above,,Less than 3 years,No,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,
+Man,,Non-NA,Over 6 years,Yes,unpaid,Sometimes,Rarely,,Never,Never,Never,Never,Never,Never,Never,Never,Never,Agree
+Man,,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+non_man,Master_Above,Non-NA,Over 6 years,Yes,paid,Never,Never,Never,Rarely,Sometimes,Often,Rarely,Never,Rarely,Rarely,Rarely,Rarely,
+Man,Undergraduate degree,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Less than 3 years,Yes,paid,Never,Never,Never,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,unpaid,Sometimes,Never,Never,,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Sometimes,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Less than 3 years,No,,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,paid,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Agree
+Man,Undergraduate degree,Non-NA,Less than 3 years,Yes,paid,Never,Rarely,,,,Often,Never,Never,Never,Never,Never,Often,Agree
+non_man,Undergraduate degree,Non-NA,Less than 3 years,Yes,,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,,,,,Sometimes,Sometimes,Often,Rarely,,Rarely,Rarely,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,No,paid,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,,,Sometimes,Sometimes,Agree
+Man,Undergraduate degree,Non-NA,Less than 3 years,Yes,paid,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Agree
+Man,"high school TT, no education",Non-NA,Over 6 years,Yes,paid,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Often,Sometimes,Neutral
+Man,Undergraduate degree,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,unpaid,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Neutral
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,Rarely,Rarely,,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Rarely,Rarely,Agree
+Man,Undergraduate degree,Non-NA,3 to 5 years,Yes,paid,Never,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Agree
+,,Non-NA,Over 6 years,Yes,unpaid,Often,Rarely,Sometimes,Never,Often,Sometimes,Often,Often,Often,Often,Often,Often,Disagree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,,,,Never,Sometimes,,Rarely,Never,Rarely,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,Rarely,,,,,,,,,Agree
+Man,Master_Above,NorthA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Disagree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Agree
+non_man,Master_Above,NorthA,Over 6 years,Yes,paid,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Sometimes,Often,Neutral
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Agree
+Man,Master_Above,NorthA,3 to 5 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,unpaid,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Neutral
+Man,Master_Above,Non-NA,Less than 3 years,Yes,paid,Rarely,Rarely,,,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Neutral
+Man,Master_Above,NorthA,Less than 3 years,Yes,paid,Rarely,Rarely,,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,Non-NA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Over 6 years,Yes,unpaid,Rarely,Rarely,,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Agree
+Man,Undergraduate degree,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
+non_man,Master_Above,NorthA,Less than 3 years,Yes,paid,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Never,Often,Rarely,Agree
+Man,"high school TT, no education",Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Neutral
+Man,Master_Above,Non-NA,Over 6 years,Yes,unpaid,,,,,,,,,,,,,Agree
+Man,Undergraduate degree,Non-NA,Less than 3 years,Yes,paid,,,,,,,,,,,,,Agree
+Man,Master_Above,NorthA,Over 6 years,Yes,paid,,,,,,,,,,,,,Agree
